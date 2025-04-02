@@ -1,0 +1,173 @@
+.col-12{
+    width: 10rem;
+    height: 3rem;
+    /* background-color: black; */
+  background-color: whitesmoke;
+}
+.col-8{
+    width: 10rem;
+    height: 100rem;
+    /* background-color: black; */
+  background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-8-sm{
+    width: 70rem;
+    height: 3rem;
+    /* background-color: green; */
+  background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-4{
+    width: 10rem;
+    height: 3rem;
+    /* background-color: red; */
+  background-color: whitesmoke;
+}
+.col-2{
+    width: 3rem;
+    height: 3rem;
+    /* background-color: yellow; */
+  background-color: whitesmoke;
+}
+.ziz{
+    width: 3rem;
+    height: 3rem;
+}
+.col-1{
+    width: 3rem;
+    height: 3rem;
+    /* background-color: yellow; */
+  background-color: whitesmoke;
+}
+.col-5{
+    width: 3rem;
+    height: 3rem;
+    /* background-color: yellow; */
+  background-color: whitesmoke;
+}
+.col-6{
+    width: 3rem;
+    height: 3rem;
+    /* background-color: yellow; */
+  background-color: whitesmoke;
+}
+.col-8-lg{
+    width: 46.8rem;
+    height: 100rem;
+    /* background-color:green; */
+  background-color: whitesmoke;
+}
+.col-12-lg{
+    width: 46.8rem;
+    height: 30rem;
+    /* background-color:red; */
+  background-color: whitesmoke;
+}
+.col-12-sm{
+    width: 46.8rem;
+    height: 30rem;
+    /* background-color:red; */
+  background-color: whitesmoke;
+    margin-top: 3rem;
+}
+.col-12-xl{
+    width: 46.8rem;
+    height: 30rem;
+    /* background-color:red; */
+  background-color: whitesmoke;
+    margin-top: 3rem;
+}
+.col-4-sm{
+    width: 23.5rem;
+    height: 100rem;
+    /* background-color:green; */
+  background-color: whitesmoke;
+}
+.col-11{
+    width: 10.1rem;
+    height: 4rem;
+    /* background-color: lawngreen; */
+  background-color: whitesmoke;
+    margin-right: auto;
+    margin-left: auto;
+}
+.col-6-sm{
+    width: 17rem;
+    height: 2rem;
+    /* background-color: yellow; */
+  background-color: whitesmoke;
+}
+.col-2-sm{
+    width: 3rem;
+    height: 2rem;
+    /* background-color: yellow; */
+  background-color: whitesmoke;
+}
+.col-11-sm{
+    width: 21.5rem;
+    height: 20rem;
+    /* background-color: lawngreen; */
+  background-color: whitesmoke;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1rem;
+}
+.col-6-lg{
+    width: 10.7rem;
+    height: 4rem;
+    background-color: #fff;
+}
+.col-6-xl{
+    width: 10.7rem;
+    height: 4rem;
+    /* background-color: #c13bd0; */
+  background-color: whitesmoke;
+}
+.col-3{
+    width: 10rem;
+    height: 4rem;
+    /* background-color: yellow; */
+  background-color: whitesmoke;
+}
+.col-9{
+    width: 10rem;
+    height: 4rem;
+    /* background-color: gray; */
+  background-color: whitesmoke;
+}
+.col-11-lg{
+    width: 21.5rem;
+    height: 16rem;
+    /* background-color: lawngreen; */
+  background-color: whitesmoke;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1rem;
+}
+.col-9-sm{
+    width: 17.5rem;
+    height: 4rem;
+    /* background-color: magenta; */
+  background-color: whitesmoke;
+}
+.col-3-sm{
+    width: 4rem;
+    height: 4rem;
+    /* background-color: magenta; */
+  background-color: whitesmoke;
+}
+.col-12-md{
+    width: 46.8rem;
+    height: 3rem;
+    /* background-color: darkgreen; */
+  background-color: whitesmoke;
+}
+.col-12-xxl{
+    width: 46.8rem;
+    height: 20rem;
+    /* background-color: darkgrey; */
+  background-color: whitesmoke;
+}
